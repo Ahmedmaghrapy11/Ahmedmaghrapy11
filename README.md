@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end and backend web development.
 - 🌱 I’m currently learning software development, cloud computing and machine learning.
 - 💞️ I’m looking to collaborate on new web projects using PHP & Laravel and JavaScript & React JS.
-- 📫 How to reach me on LinkedIn profile: https://www.linkedin.com/in/ahmad-maghrapy-9280651b3/ .
+- 📫 How to reach me on LinkedIn profile: https://www.linkedin.com/in/ahmad-maghrapy-%F0%9F%87%B5%F0%9F%87%B8-9280651b3/ .
 - 📫 How to reach me on my website: https://eng-ahmad-maghrapy.netlify.app/ .
 
 <!---
